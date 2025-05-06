@@ -26,12 +26,12 @@ public class Opeatorsdemo {
 		System.out.println("Division = " + div);
 		System.out.println("Modulo = " + mod);
 
-		System.out.println("\nRelational Operators:");
+		System.out.println("Relational Operators:");
 		System.out.println("a == b: " + isEqual);
 		System.out.println("a > b: " + isGreater);
 		System.out.println("a < b: " + isLess);
 
-		System.out.println("\nLogical Operators:");
+		System.out.println("Logical Operators:");
 		System.out.println("Logical AND: " + logicalAnd);
 		System.out.println("Logical OR: " + logicalOr);
 		System.out.println("Logical NOT: " + logicalNot);
